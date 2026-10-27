@@ -6,7 +6,7 @@ a place where you can find testing data across many laptops and its compatibilit
 | Device and model                                              | speakers | wifi | bluetooth | function row | special features |
 | ------------------------------------------------------------- | -------- | ---- | --------- | ------------ | ---------------- |
 | Asus zenbook R7 3700u                                         | yes      | no   | yes       | no           | yes              |
-| Asus V16 (RTX 5050, Core 5 210H)                              | yes      | yes  | yes       | yes          | swap + hibernate |
+| Asus V16 (RTX 5050, Core 5 210H)                              | yes      | yes  | yes       | yes          | |
 
 #
 
@@ -18,4 +18,4 @@ the laptops were tested at max brightness on both linux and windows with the bes
 | Device and model                                              | windows  | cachyos | tuned cachyos                                                            |
 | ------------------------------------------------------------- | -------- | ------- | ------------------------------------------------------------------------ |
 | asus zenbook R7 3700u                                         | 4hrs     | 8hrs    | 200000hrs                                                                |
-| Asus V16 (RTX 5050, Core 5 210H)                              | —        | 8hrs    | swap + hibernate = 8 hours of YouTube and 1-2 hours of intense gaming |
+| Asus V16 (RTX 5050, Core 5 210H)                              |  3hours - 5 depending on intels lovely E cores      | 8hrs    |  I died of old age during testing. 
